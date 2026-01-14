@@ -3,7 +3,7 @@
 #include<string.h>
 #define l  50
 struct node
-{
+{//Hello!!! My name is Aastha Sharma K M!
     char data[l];
     struct node *next;
 }*head=NULL,*temp=NULL,*newNode=NULL,*d,*prev=NULL;
