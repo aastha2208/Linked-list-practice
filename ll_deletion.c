@@ -1,3 +1,4 @@
+#THis program covers all deletion cases in Singly_LL
 #include<stdio.h>
 #include<stdlib.h>
 
