@@ -6,7 +6,7 @@ struct node
     int data;
     struct node *next;
 };
-
+//Hello!
 struct node *create()
 {
     struct node *head=NULL,*temp=NULL,*newNode=NULL;
